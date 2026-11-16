@@ -24,7 +24,7 @@ python -m pip install -r requirements.txt
 PYTHONPATH=src python -m option_pricing.gui
 ```
 
-L’interface PyQt5 permet de saisir les paramètres, de choisir call/put et Black–Scholes/Monte Carlo, puis d’afficher le premium, l’intervalle de confiance Monte Carlo et les grecques Black–Scholes. Sur macOS, double-cliquer sur `Lancer le pricer.command` pour ouvrir l’application.
+L’interface PyQt5 permet de saisir les paramètres, de choisir call/put et Black–Scholes/Monte Carlo, puis d’afficher le premium, l’intervalle de confiance Monte Carlo et les grecques Black–Scholes. Sur macOS, double-cliquer sur `run_pricer.command` pour ouvrir l’application.
 
 ## État du projet
 
