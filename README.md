@@ -109,6 +109,4 @@ Le modèle suppose une volatilité constante, un taux sans risque constant, l’
 
 **Déjà implémenté :** Black–Scholes, Monte Carlo avec intervalle de confiance, convergence, grecques, différences finies, étude paramétrique et interface PyQt5. Les tests couvrent notamment les prix de référence, la parité call-put, l’accord Monte Carlo/Black–Scholes et la comparaison des grecques.
 
-**À compléter :** notebook d’analyse, réduction de variance (au moins variables antithétiques), option asiatique et ligne de CV. Aucune licence open source n’a encore été choisie.
-
 Projet développé avec assistance IA.
